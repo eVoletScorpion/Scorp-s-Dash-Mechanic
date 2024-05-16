@@ -3,11 +3,10 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 - [Join my community if you need help](https://www.guilded.gg/Fridge)
-- Get the package from the releases tab *(link releases here)*
+- Get the scripts from the releases tab *(link releases here)*
+- Fully customiseable from the SETTINGS module
 
-An advanced dash mechanic for the platform Roblox.
-
-You can adjust anything in the SETTINGS module.
+### Important
 
 > [!IMPORTANT]
 > You must upload the animations yourself and replace the ID's in the Animations folder.
