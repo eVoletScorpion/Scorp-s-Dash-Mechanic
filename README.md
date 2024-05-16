@@ -3,8 +3,8 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 - [Join my community if you need help](https://www.guilded.gg/Fridge)
-- Get the scripts from the releases tab *(link releases here)*
-- Fully customiseable from the SETTINGS module
+- Fully customizable from the SETTINGS module
+- Get the scripts from the releases tab *link releases tab*
 
 ### Important
 
