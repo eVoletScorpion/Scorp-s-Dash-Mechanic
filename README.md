@@ -5,7 +5,9 @@
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCdG4HS2dzCYzhXCW2t-Jx7Q)](https://www.youtube.com/channel/UCdG4HS2dzCYzhXCW2t-Jx7Q)
 
 - [Join my community if you need help](https://www.guilded.gg/Fridge)
-- Fully customizable from the SETTINGS module
+- Fully customizable from the SETTINGS module!
+- Awesome trails!
+- Supports buffering dashes!
 - Get the scripts [here](https://github.com/eVoletScorpion/Scorp-s-Dash-Mechanic/releases)
 
 ### Important
