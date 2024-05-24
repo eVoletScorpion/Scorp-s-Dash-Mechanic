@@ -18,4 +18,4 @@
 > If you have custom collision groups for characters, adjust trails module (createCharacter) to accomodate them.
 
 ## Credits
-*Credit creator of BridgeNet*
+[BridgeNet](https://github.com/ffrostflame/BridgeNet)
