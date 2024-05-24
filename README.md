@@ -6,7 +6,7 @@
 
 - [Join my community if you need help](https://www.guilded.gg/Fridge)
 - Fully customizable from the SETTINGS module
-- Get the scripts from the releases tab *link releases tab*
+- Get the scripts [here](https://github.com/eVoletScorpion/Scorp-s-Dash-Mechanic/releases)
 
 ### Important
 
