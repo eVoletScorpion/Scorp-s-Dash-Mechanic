@@ -1,10 +1,9 @@
 # Scorp's Dash Mechanic
 
-[![Guilded](https://img.shields.io/badge/Guilded-F5C400?&logo=guilded&logoColor=black)](https://www.guilded.gg/Fridge)
+[![Twitter](https://img.shields.io/twitter/follow/eVoletScorpion?style=social)](https://twitter.com/eVoletScorpion)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCdG4HS2dzCYzhXCW2t-Jx7Q)](https://www.youtube.com/channel/UCdG4HS2dzCYzhXCW2t-Jx7Q)
 
-- [Join my community if you need help](https://www.guilded.gg/Fridge)
 - Fully customizable from the SETTINGS module!
 - Awesome trails!
 - Supports buffering dashes!
